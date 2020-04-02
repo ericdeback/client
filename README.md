@@ -1,3 +1,3 @@
 # client
 
-First attempt at a Java client that issues RESTful requests similar to PostMan
+RESTful Java client (Spring Boot) similar to PostMan
